@@ -12,7 +12,7 @@ Project is run using:
 - TensorFlow 1.13.1
 - Keras 2.2.4
 
-### Installing
+### Installation
 
 A requirements.txt is added to the repository which can be used to install the dependencies using the following code in your virtual environment.
 
